@@ -1,2 +1,2 @@
 # JavaDSA
-This are my Java DSA Practice codes
+These are my Java DSA Practice codes
